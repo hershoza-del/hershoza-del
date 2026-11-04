@@ -26,5 +26,5 @@ https://github.com/hershoza-del/NYC-Department-of-Correction-Payroll-Analysis.gi
 Python (pandas/matplotlib) · SQL · Excel · R · Tableau Public
 
 ## Let's connect
-linkedin.com/in/hersh-oza-8407111b9 · hershoza@gmail.com
+hershoza@gmail.com · 732-597-1097
 
