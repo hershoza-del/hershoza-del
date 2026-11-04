@@ -1,7 +1,8 @@
 # Hi, I'm Hersh Oza 👋
 
-I'm a beginner data analyst building my skills through hands-on projects using
-Python, SQL, Excel, R, and Tableau. While I'm still early in my journey, my profile tracks both my projects and how my process has evolved along the way.
+I’m an Economics graduate, cum laude, from Rutgers University building practical experience in data analysis through independent projects. I use Python, SQL, Excel, R, and Tableau Public to investigate questions about public health, public spending, and consumer behavior.
+
+My projects focus on cleaning data, checking results, identifying patterns, and communicating findings clearly.
 
 ## My workflow
 
@@ -29,16 +30,15 @@ SQL and Excel are still part of my process, but are not  always saved as separat
 
 Each project below reflects a bit more of my process. 
 
-## Notable Projects & Evolution
+## Featured Projects
 
-- **Sleep and GPA Analysis** — synthetic sleep and GPA data across 3 universities. First project; early Python/SQL workflow. https://github.com/hershoza-del/Sleep-and-GPA-Analysis.git · https://public.tableau.com/views/SleepandGPAAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
+- **U.S. County Health Disparities Analysis** —
+Analyzed 2025 County Health Rankings data covering 3,000+ U.S. counties to investigate differences in health outcomes, access to care, and socioeconomic conditions.
+https://github.com/hershoza-del/U.S.-County-Health-Disparities-Analysis.git
 
-- **NYC Electricity Utility Bills Analysis** — synthetic NYC electricity/utility bills from 2023-2025. Workflow settles here. https://github.com/hershoza-del/NYC-Electricity-Utility-Bills-Analysis.git · https://public.tableau.com/views/NYCElectricityandUtilityBillsAnalysisPart1/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link · 
-https://public.tableau.com/views/NYCElectricityandUtilityBillsAnalysisPart2/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
-
-- **U.S. County Health Disparities Analysis** — analysis of 2025 County Health Rankings data for 3,000+ U.S. counties. https://github.com/hershoza-del/U.S.-County-Health-Disparities-Analysis.git
-
-- **NYC Department of Correction Payroll Analysis** — analysis of 10000+ staff in the NYC Department of Corrections for FY2025. https://github.com/hershoza-del/NYC-Department-of-Correction-Payroll-Analysis.git
+- **NYC Department of Correction Payroll Analysis** —
+Examined FY2025 payroll records for 10,000+ NYC Department of Correction staff to explore compensation patterns.
+https://github.com/hershoza-del/NYC-Department-of-Correction-Payroll-Analysis.git
 
 ## Tools
 Python (pandas/matplotlib) · SQL · Excel · R · Tableau Public
