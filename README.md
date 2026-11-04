@@ -41,8 +41,8 @@ https://public.tableau.com/views/NYCElectricityandUtilityBillsAnalysisPart2/Dash
 - **NYC Department of Correction Payroll Analysis** — analysis of 10000+ staff in the NYC Department of Corrections for FY2025. https://github.com/hershoza-del/NYC-Department-of-Correction-Payroll-Analysis.git
 
 ## Tools
-Python (Pandas) · SQL · Excel · R · Tableau Public
+Python (pandas/matplotlib) · SQL · Excel · R · Tableau Public
 
 ## Let's connect
-www.linkedin.com/in/hersh-oza-8407111b9 · hershoza@gmail.com
+linkedin.com/in/hersh-oza-8407111b9 · hershoza@gmail.com
 
