@@ -8,9 +8,9 @@ Python, SQL, Excel, R, and Tableau. While I'm still early in my journey, my prof
 Over these projects, I've settled into a workflow that plays to each tool's
 strengths:
 
-- **Python (Pandas)** — cleaning, reshaping, and exporting datasets to Excel
+- **Python (pandas/matplotlib)** — cleaning, reshaping, visualizing, gand exporting a refined dataset to Excel
 - **SQL / Excel** — querying and cross-checking the dataset
-- **R** — building custom visualizations based on 3-4 key observations
+- **R** — running statistical tests based on 3 key observations 
 - **Tableau Public** — building an additional interactive dashboards
 
 Having a pipeline wasn’t obvious to me from the start, but rather something I figured out through trial and error. Moreover, progression should be worth showing rather than hiding.
@@ -29,16 +29,16 @@ SQL and Excel are still part of my process, but are not  always saved as separat
 
 Each project below reflects a bit more of my process. 
 
-## Projects
+## Notable Projects & Evolution
 
 - **Sleep and GPA Analysis** — synthetic sleep and GPA data across 3 universities. First project; early Python/SQL workflow. https://github.com/hershoza-del/Sleep-and-GPA-Analysis.git · https://public.tableau.com/views/SleepandGPAAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
-
-- **Food Delivery Analysis** — synthetic food delivery data of 50,000 orders. https://github.com/hershoza-del/Food-Delivery-Analysis.git · https://public.tableau.com/views/FoodDeliveryAnalysis_17873451342230/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
 
 - **NYC Electricity Utility Bills Analysis** — synthetic NYC electricity/utility bills from 2023-2025. Workflow settles here. https://github.com/hershoza-del/NYC-Electricity-Utility-Bills-Analysis.git · https://public.tableau.com/views/NYCElectricityandUtilityBillsAnalysisPart1/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link · 
 https://public.tableau.com/views/NYCElectricityandUtilityBillsAnalysisPart2/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
 
-- **Credit Card Analysis** — synthetic dataset on 20,000 transactions. Most recent project. https://github.com/hershoza-del/Credit-Card-Fraud-Analysis.git · https://public.tableau.com/views/FraudCountandChannel/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
+- **U.S. County Health Disparities Analysis** — analysis of 2025 County Health Rankings data for 3,000+ U.S. counties. https://github.com/hershoza-del/U.S.-County-Health-Disparities-Analysis.git
+
+- **NYC Department of Correction Payroll Analysis** — analysis of 10000+ staff in the NYC Department of Corrections for FY2025. https://github.com/hershoza-del/NYC-Department-of-Correction-Payroll-Analysis.git
 
 ## Tools
 Python (Pandas) · SQL · Excel · R · Tableau Public
