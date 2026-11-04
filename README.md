@@ -4,31 +4,13 @@ I’m an Economics graduate, cum laude, from Rutgers University building practic
 
 My projects focus on cleaning data, checking results, identifying patterns, and communicating findings clearly.
 
-## My workflow
+## My approach
 
-Over these projects, I've settled into a workflow that plays to each tool's
-strengths:
-
-- **Python (pandas/matplotlib)** — cleaning, reshaping, visualizing, gand exporting a refined dataset to Excel
-- **SQL / Excel** — querying and cross-checking the dataset
-- **R** — running statistical tests based on 3 key observations 
-- **Tableau Public** — building an additional interactive dashboards
-
-Having a pipeline wasn’t obvious to me from the start, but rather something I figured out through trial and error. Moreover, progression should be worth showing rather than hiding.
+I typically use **Python (pandas/matplotlib)** to clean and reshape datasets, **SQL** and **Excel** to query and cross-check results, **R (ggplot2)** for statistical analysis and visualization, and **Tableau Public** for additional interactive dashboards. The methods and tools vary depending on the question and dataset.
 
 ## How this evolved
 
-My first project was where I first learned the basics of Pandas and SQL. While I wanted to see what SQL and Pandas offered, I didn’t yet figure out what tool I should specifically utilize for what. 
-
-By my second project (analyzing synthetic food deliveries), I’d landed on the split above: Python for cleaning and rearranging and SQL for querying and cross-checking.
-
-I also use Excel for cross checking the dataset, which I get after cleaning the dataset from Python. However, regarding data visualization, I have determined that R is a great language if you want to obtain graphs. In fact, I first learned about R in my Data 101 class in college. Tableau Public is an additional way of showcasing my analysis. 
-
-Starting with my third project (analyzing synthetic NYC electricity/utility bills), I stopped committing to include separate SQL script files. While I still use SQL to cross-check my cleaned data, I have determined that Python and R have gradually become my primary output of code, since that's where the major analysis (visual graphs) and changes (cleaning/exporting dataset) take place. 
-
-SQL and Excel are still part of my process, but are not  always saved as separate artifacts.
-
-Each project below reflects a bit more of my process. 
+My early projects helped me learn the basics of Python and SQL. As I’ve progressed, I’ve become more deliberate about choosing tools, validating findings, and documenting my analysis. Each repository reflects what I knew at the time and what I learned along the way.
 
 ## Featured Projects
 
