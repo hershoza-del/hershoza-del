@@ -6,7 +6,7 @@ My projects focus on cleaning data, checking results, identifying patterns, and 
 
 ## My approach
 
-I typically use **Python (pandas/matplotlib)** to clean and reshape datasets, **SQL** and **Excel** to query and cross-check results, **R** for statistical analysis and visualization, and **Tableau (Public)** for additional interactive dashboards. The methods and tools vary depending on the question and dataset.
+I typically use **Python (pandas, matplotlib)** to clean and reshape datasets, **SQL** and **Excel** to query and cross-check results, **R** for statistical analysis and visualization, and **Tableau (Public)** for additional interactive dashboards. The methods and tools vary depending on the question and dataset.
 
 ## How this evolved
 
